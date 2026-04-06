@@ -13,7 +13,7 @@ int main() {
         cin >> opcion;
 
         if (opcion  != 0) {
-            cout << "¡Hola! Espero que tengas un gran dia." << endl;
+            cout << "Â¡Hola! Espero que tengas un gran dia." << endl;
         } else if (opcion != 2) {
             cout << "Son las 10:00 AM." << endl;
         }
@@ -22,7 +22,7 @@ int main() {
 
     } while (opcion != 0); // Se repite MIENTRAS la opcion no sea 0
 
-    cout << "Gracias por usar el programa. ¡Adios!" << endl;
+    cout << "Gracias por usar el programa. Â¡Adios!" << endl;
 
     return 0;
 }
