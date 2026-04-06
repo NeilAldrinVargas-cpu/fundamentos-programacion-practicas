@@ -8,11 +8,11 @@ int main() {
     while (contador > 0) {
         cout << "Cuenta regresiva: " << contador << endl;
 
-        // Es vital restar 1, si no, el ciclo sería infinito
+        // Es vital restar 1, si no, el ciclo serÃ­a infinito
         contador--;
     }
 
-    cout << "¡Despegue!" << endl;
+    cout << "Â¡Despegue!" << endl;
 
     return 0;
 }
